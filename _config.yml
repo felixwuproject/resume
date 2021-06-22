@@ -93,7 +93,7 @@ content:
         caption: 2021 - 2021
         sub_title: Cybersecurity
         quote: >
-         The University of Sydney is one of the best universities in Australia, and is consistently ranked in the top 50 universities in the world.
+         The University of Sydney is one of the best universities in Australia, and is consistently ranked in the top 50 universities in world.
         description: | # this will include new lines to allow paragraphs
           As the technology changes every day, I have to follow the path to update my skill, this new course get hands on networking, systems, web technologies, databases, and most import defensive and offensive cybersecurity.  
 
@@ -106,8 +106,7 @@ content:
       - Movies
       - Hiking
 
-      #Look at this cool image  
-      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    
 
 # Footer
 footer_show_references: true
