@@ -67,7 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Cloud security is the protection of data, applications, and infrastructures involved in cloud computing
         description: | # this will include new lines to allow paragraphs
           I started this project as school project. I have learned many skills through this and been I'm very proud of having this in my portfolio. thank you for your time to review and can wait to see meet you.
 
@@ -81,11 +81,9 @@ content:
         sub_title: Network System Administrator
         caption: December 2014 - May 2021
         quote: >
-           Planned, directed and coordinated network and web-base projects with different teams. Accomplished project goals on time, on budget and in alignment with corporate objectives. 
+           Planned, directed and coordinated network and web-base projects with different teams. Accomplished project goals on time.
         description: | # this will include new lines to allow paragraphs
-            •   Directed acquisition, installation and testing of network hardware.
-            •   Secured and connected private networks at multiple sites.
-            •   Identified departmental needs and made suggestions regarding technical issue. 
+            •   Directed acquisition, installation and testing of network hardware. Secured and connected private networks at multiple sites. Identified departmental needs and made suggestions regarding technical issue. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,21 +95,19 @@ content:
         quote: >
          The University of Sydney is one of the best universities in Australia, and is consistently ranked in the top 50 universities in the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          As the technology changes every day, I have to follow the path to update my skill, this new course get hands on networking, systems, web technologies, databases, and most import defensive and offensive cybersecurity.  
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in networks and cybersecurity, some of my other interests and hobbies are:
+      - Photography
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Movies
+      - Hiking
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      #Look at this cool image  
+      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
