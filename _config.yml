@@ -77,7 +77,7 @@ content:
       - layout: left
         title: Manchester & More
         link: manchesterandmore.com
-         link_text: manchesterandmore.com
+        # link_text: manchesterandmore.com
         sub_title: Network System Administrator
         caption: December 2014 - May 2021
         quote: >
