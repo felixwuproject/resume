@@ -49,7 +49,7 @@ linkedin_username: felix-wu-961330180
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi my name's Felix and I am a Experienced Systems Administrator with 10 +years of expertise in design, development and maintenance of various software and management of server infrastructures across operating system platforms. 
-  I am most skilled in: <mark>Network Security</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Network Management, Digital Marketing, Cybersecurity</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -75,16 +75,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Manchester & More
+        title: Manchester & More (Retail)
         link: manchesterandmore.com
         # link_text: manchesterandmore.com
         sub_title: Network System Administrator
-        caption: December 2014 - May 2021
+        caption: December 2017 - May 2021
         quote: >
            Planned, directed and coordinated network and web-base projects with different teams. Accomplished project goals on time.
         description: | # this will include new lines to allow paragraphs
             •   Directed acquisition, installation and testing of network hardware. Secured and connected private networks at multiple sites. Identified departmental needs and made suggestions regarding technical issue. 
 
+ - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Manchester & More (Retail)
+        link: manchesterandmore.com
+        # link_text: manchesterandmore.com
+        sub_title: Network System Administrator
+        caption: December 2017 - May 2021
+        quote: >
+           Planned, directed and coordinated network and web-base projects with different teams. Accomplished project goals on time.
+        description: | # this will include new lines to allow paragraphs
+            •   Directed acquisition, installation and testing of network hardware. Secured and connected private networks at multiple sites. Identified departmental needs and made suggestions regarding technical issue. 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
